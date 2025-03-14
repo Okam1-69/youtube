@@ -1,0 +1,13 @@
+body{
+  padding-top: 70px;
+  padding-left: 87px;
+}
+p{
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+a {
+  text-decoration: none; /* Remove underline from the whole anchor */
+  color: inherit; /* Inherit color for the link */
+}
